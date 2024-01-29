@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **something cool**
 
-- 👨‍💻 All of my projects are available at [https://www.ifeanyiofikulu.dev](https://www.ifeanyiofikulu.dev)
+- 👨‍💻 Check out my Portforlio,my Resume and most of my projects are available at [https://www.ifeanyiofikulu.dev](https://www.ifeanyiofikulu.dev)
 
 - 📫 How to reach me **ifeanyiofi@gmail.com**
 
